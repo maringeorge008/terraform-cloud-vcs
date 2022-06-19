@@ -1,2 +1,3 @@
-rg_name="RG_Test_Student04"
-location="northeurope"
+rg_name  = "RG_Student00"
+location = "eastus"
+tags     = { environment = "training", owner = "Student00" }
